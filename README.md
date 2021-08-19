@@ -1,7 +1,7 @@
 <h1>🧘🏻 Yoga Interface</h1>
 
 <p align="center">
-<img src="./assets/yoga-page.png"  alt="yoga-page">
+<img src="./assets/yoga-pages.png"  alt="yoga-page">
 </p>
 
 With a simple and minimalist layout, an interface was created for the user to login to a yoga website.
